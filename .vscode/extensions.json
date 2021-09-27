@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "fnando.linter",
+        "fudge.auto-using",
+        "jchannon.csharpextensions",
+        "adrianwilczynski.namespace",
+        "jorgeserrano.vscode-csharp-snippets",
+        "formulahendry.dotnet"
+    ]
+}
